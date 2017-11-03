@@ -1,0 +1,8 @@
+Folder PATH listing
+Volume serial number is 00650067 487B:ECAF
+D:.
+³   image.jpg
+³   readme.txt
+³   result.txt
+³   
+ÀÄÄÄreboot
